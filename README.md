@@ -1,3 +1,4 @@
 # IT115_Mid_Project
 
-Sid Hemsley
+Sid Hemsley  
+Favorite color: forest green
